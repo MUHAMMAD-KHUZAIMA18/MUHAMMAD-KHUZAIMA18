@@ -29,20 +29,9 @@
 ---
 
 ## GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MUHAMMAD-KHUZAIMA18&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MUHAMMAD-KHUZAIMA18&layout=compact&theme=tokyonight&hide_border=true" height="180" />
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=MUHAMMAD-KHUZAIMA18&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-## Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MUHAMMAD-KHUZAIMA18/MUHAMMAD-KHUZAIMA18/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
