@@ -23,15 +23,7 @@
 
 ## Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,python,mysql,mongodb,git,github,vscode" />
-</p>
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=MUHAMMAD-KHUZAIMA18&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,python,mysql,mongodb,bootstrap,git,github,vscode" />
 </p>
 
 ---
